@@ -1,0 +1,1 @@
+create database registration_system_db;
